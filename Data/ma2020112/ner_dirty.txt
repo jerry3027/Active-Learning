@@ -1,0 +1,1 @@
+[[4, 5, "thiophene-and", "CN"], [21, 22, "quinoxaline", "CN"], [23, 24, "diketopyrrolopyrrole", "CN"], [32, 34, "selenophene backbones", "CN"], [39, 40, "absorption", "PN"], [65, 66, "molecular", "PN"]]

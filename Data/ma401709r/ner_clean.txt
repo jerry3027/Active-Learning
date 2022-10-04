@@ -1,0 +1,1 @@
+[[0, 6, "5 , 2 , 5 ]thiadiazole", "CN"], [6, 7, "(FBT)-based", "CN"], [45, 48, "pendant side chains", "CN"], [84, 86, "fluorine atoms", "CN"], [88, 90, "alkyl chains", "CN"], [95, 98, "power conversion efficiency", "PN"], [100, 102, "6 %", "PV"], [112, 113, "PC71BM", "CN"]]

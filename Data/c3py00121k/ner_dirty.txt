@@ -1,0 +1,1 @@
+[[19, 20, "indacenodithieno[3,2-b]thiophene", "CN"], [21, 22, "IDTT", "CN"], [26, 27, "thiazolothiazole", "CN"], [28, 29, "TzTz", "CN"], [35, 36, "hole", "PN"], [41, 42, "10", "PV"], [44, 45, "2", "PV"], [58, 61, "PIDTT-TzTz-PC 71 BM", "CN"], [59, 60, "71", "PV"], [67, 69, "power conversion", "PN"], [75, 76, "5.53", "PV"], [78, 79, "5.90", "PV"], [102, 103, "TzTz", "CN"]]

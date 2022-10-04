@@ -1,0 +1,1 @@
+[[118, 119, "benzo[c][1,2,5]thiadiazole", "CN"], [120, 122, "benzo [d][1,2,3]triazole", "CN"], [127, 128, "benzo[1,2-b;4,5-b\u2032]dithiophene", "CN"], [187, 190, "PC 71 BM", "CN"], [195, 198, "Power conversion efficiencies", "PN"], [201, 203, "2.8 %", "PV"]]

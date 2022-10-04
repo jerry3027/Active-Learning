@@ -1,0 +1,1 @@
+[[50, 51, "electron", "PN"], [84, 85, "fluorine", "CN"], [88, 89, "alkyl", "CN"], [95, 98, "power conversion efficiency", "PN"], [100, 101, "6", "PV"]]

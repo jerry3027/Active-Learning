@@ -1,0 +1,1 @@
+[[6, 7, "poly(5,6difluorobenzo-2,1,3-thiadiazole-4,7-diyl-altquaterchalcogenophene)", "CN"], [9, 10, "7.3", "PV"], [14, 15, "efficiency", "PN"]]

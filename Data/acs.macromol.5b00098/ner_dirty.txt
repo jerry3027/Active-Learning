@@ -1,0 +1,1 @@
+[[2, 3, "tetracyclic", "CN"], [6, 7, "naphthodithiophenes", "CN"], [109, 110, "naphthodithophene", "CN"], [135, 137, "2,7distannylated-4,9-dialkylated aNDT", "CN"], [165, 166, "71", "PV"], [173, 174, "PCE", "PN"], [175, 176, "6.52", "PV"], [185, 186, "PCE", "PN"], [187, 188, "6.86", "PV"], [203, 205, "hole mobility", "PN"]]

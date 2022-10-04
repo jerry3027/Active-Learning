@@ -1,0 +1,1 @@
+[[98, 99, "hole", "PN"], [105, 106, "electron", "PN"], [209, 211, "Aromatic imides", "CN"], [213, 215, "rylene diimides", "CN"], [230, 231, "electron", "PN"], [234, 235, "electron", "PN"], [246, 247, "4", "PV"], [250, 251, "electron", "PN"], [267, 268, "imide", "CN"]]

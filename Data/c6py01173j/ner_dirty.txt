@@ -1,0 +1,1 @@
+[[56, 57, "electron", "PN"], [61, 62, "71", "PV"], [65, 66, "electron", "PN"], [98, 99, "DIO", "CN"], [100, 101, "chloroform", "CN"], [111, 114, "power conversion efficiency", "PN"], [115, 116, "7.66", "PV"], [123, 124, "5.33", "PV"], [130, 133, "power conversion efficiency", "PN"], [139, 141, "hole mobility", "PN"]]

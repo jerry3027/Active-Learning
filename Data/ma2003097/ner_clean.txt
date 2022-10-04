@@ -1,0 +1,1 @@
+[[209, 211, "Aromatic imides", "CN"], [213, 215, "rylene diimides", "CN"], [230, 232, "electron affinities", "PN"], [234, 236, "electron mobilities", "PN"], [258, 260, "aromatic core", "CN"], [267, 269, "imide groups", "CN"], [276, 277, "rylene", "CN"]]
